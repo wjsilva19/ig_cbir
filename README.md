@@ -8,6 +8,7 @@ When encountering a dubious diagnostic case, radiologists typically search in pu
 ![Alt text](aux_images/Method.png?raw=true "Title")
 
 ## Results
+TO DO
 
 ## Installation 
 TO DO
