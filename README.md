@@ -21,6 +21,7 @@ To run the scripts, you need to have installed:
 * cv2 4.2.0
 
 ## Instructions 
+* Run train.py if you want to train the model in the same way as in the paper.
 * Run precision.py if you want to replicate precision results presented in the paper. 
 
 ## Citation
