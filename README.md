@@ -18,6 +18,7 @@ To run the scripts, you need to have installed:
 * numpy	1.16.3
 * pandas	0.25.3
 * scipy	1.1.0
+* cv2 4.2.0
 
 ## Instructions 
 * Run precision.py if you want to replicate precision results presented in the paper. 
