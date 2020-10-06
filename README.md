@@ -12,9 +12,9 @@ TO DO
 
 ## Installation 
 To run the scripts, you need to have installed: 
+* Keras 2.2.4
 * tensorflow-gpu	1.10.0
 * scikit-learn	0.21.1
-* Keras 2.2.4
 * numpy	1.16.3
 * pandas	0.25.3
 * scipy	1.1.0
