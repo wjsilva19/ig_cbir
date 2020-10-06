@@ -22,7 +22,7 @@ To run the scripts, you need to have installed:
 
 ## Instructions 
 * Run model.py if you want to train the model in the same way as in the paper.
-* Run precision.py if you want to replicate precision results presented in the paper. (Model h5py files will be made available in the next weeks) 
+* Run precision.py if you want to replicate precision results presented in the paper.
 
 ## Citation
 If you use this repository, please cite this paper:
